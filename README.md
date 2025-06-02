@@ -1,8 +1,8 @@
-# Age & Era Calculator 📅
+# Age & Era Calculator
 
 A Streamlit web application that calculates a person's culturally significant life periods—childhood, teenage years, and young adulthood—based on their date of birth or age. It also determines their star sign, generation, and provides a personalized cultural snapshot for those eras using AI (OpenAI GPT-3.5-turbo).
 
-## Features ✨
+## Features
 
 *   **Flexible Input**: Calculate based on either Date of Birth (DOB) or current age.
 *   **Era Calculation**: Identifies key impressionable periods:
@@ -64,14 +64,14 @@ streamlit run app.py
 
 This will typically open the application in your default web browser (e.g., at `http://localhost:8501`).
 
-## Technologies Used 🛠️
+## Technologies Used 
 
 *   **Python**: Core programming language.
 *   **Streamlit**: For the web application interface.
 *   **OpenAI API (GPT-3.5-turbo)**: For generating personalized cultural summaries.
 *   **python-dotenv**: For managing environment variables (API key).
 
-## Future Enhancements (Ideas) 💡
+## Future Enhancements (Ideas)
 
 *   More detailed cultural context inputs (e.g., specific interests, subcultures).
 *   Integration with external APIs for music, movies, or news from specific eras.
