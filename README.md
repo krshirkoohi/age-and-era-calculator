@@ -15,7 +15,7 @@ A Streamlit web application that calculates a person's culturally significant li
 *   **Shareable ID**: Generates a unique ID representing the input, allowing users to (conceptually) share their results (Note: full sharing functionality would require a backend database).
 *   **User-Friendly Interface**: Built with Streamlit for a clean and interactive experience.
 
-## How to Run Locally 🚀
+## How to Run Locally
 
 ### Prerequisites
 
